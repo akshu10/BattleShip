@@ -1,2 +1,2 @@
 # BattleShip
-This is a game developed in Java
+This is the BattleShip game developed in Java
